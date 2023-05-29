@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
+[![MasterHead](/gif/bea007c27de853a7b2a8b4334b070cfd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Maul</h1>
 <h3 align="center">A passionate frontend developer from Depok</h3>
 <img align="right" alt="Coding" widht="400" src="/gif/be1ae065e7a3b446bfb66781ec89fcec.gif">
